@@ -1,0 +1,7 @@
+Credentials cache: API:67049
+        Principal: jokeeler@42.US.ORG
+
+  Issued                Expires               Principal
+Jan  6 12:05:31 2020  Jan  6 22:05:31 2020  krbtgt/42.US.ORG@42.US.ORG
+Jan  6 12:05:32 2020  Jan  6 22:05:31 2020  ldap/ldap-master.42.us.org@42.US.ORG
+Jan  6 12:19:54 2020  Jan  6 22:05:31 2020  host/vgs-fn1.42.us.org@42.US.ORG
